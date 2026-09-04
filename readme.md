@@ -16,11 +16,9 @@ L'objectif est de mettre en pratique différentes méthodes d'analyse statistiqu
 - Visualisation des données
 
 #### *Principaux résultats*
-L'analyse met en évidence :<br>
 - une forte corrélation négative entre l'âge et le volume cérébral normalisé (r = -0,874 ; p < 0,001) ;
 - une corrélation positive modérée entre le volume cérébral et le score MMSE (r = 0,47 ; p < 0,001) ;
 - des scores MMSE significativement plus élevés chez les participants avec un CDR = 0 que chez ceux avec un CDR > 0 (p < 0,001). <br>
-Ces résultats décrivent des associations et ne permettent pas d'établir de relation causale.
 
 #### *Données*
 Les données utilisées proviennent du jeu de données OASIS-1 (Open Access Series of Imaging Studies), développé par la Washington University in St. Louis. <br>
