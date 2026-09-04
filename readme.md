@@ -2,7 +2,7 @@
 
 #### *Présentation*
 Ce projet personnel consiste à analyser les relations entre l'âge, le volume cérébral et les performances cognitives à partir des données OASIS-1 (Open Access Series of Imaging Studies). <br>
-L'objectif est de mettre en pratique différentes méthodes d'analyse statistique sur des données issues du domaine de la santé et des neurosciences.
+L'objectif est de mettre en pratique différentes méthodes d'analyse statistique sur des données issues du domaine des neurosciences.
 
 #### *Questions étudiées*
 1. L'âge est-il associé au volume cérébral normalisé (nWBV) ?
@@ -15,13 +15,6 @@ L'objectif est de mettre en pratique différentes méthodes d'analyse statistiqu
 - Test t de Student avec correction de Welch
 - Visualisation des données
 
-#### *Outils*
-- Python
-- Pandas
-- SciPy
-- Matplotlib
-- Jupyter Notebook
-
 #### *Principaux résultats*
 L'analyse met en évidence :<br>
 - une forte corrélation négative entre l'âge et le volume cérébral normalisé (r = -0,874 ; p < 0,001) ;
@@ -31,8 +24,6 @@ Ces résultats décrivent des associations et ne permettent pas d'établir de re
 
 #### *Données*
 Les données utilisées proviennent du jeu de données OASIS-1 (Open Access Series of Imaging Studies), développé par la Washington University in St. Louis. <br>
-Le fichier de données n'est pas inclus dans ce dépôt. Il peut être obtenu depuis le site officiel OASIS :
-https://sites.wustl.edu/oasisbrains/home/oasis-1/
 
 #### *Fichier*
 **etude_oasis.ipynb** : notebook contenant la préparation des données, les analyses statistiques, les visualisations et l'interprétation des résultats.
